@@ -93,16 +93,9 @@ The dashboard is built in Microsoft Excel using Pivot Tables, Charts, and Slicer
 ## 📸 Dashboard Preview
 <img width="1037" height="455" alt="screeen shot 1" src="https://github.com/user-attachments/assets/53097e73-1c40-44f4-8b49-2eece2681202" />
 <img width="866" height="389" alt="image" src="https://github.com/user-attachments/assets/cbd412ea-54be-41a3-9926-a66451ce225a" />
+## 📌 Author
+**Roswin Varghese**
 
 
 
 
----
-
-## 📂 Project Structure
-Sales-Dashboard/
-│
-├── Data/
-├── Dashboard.xlsx
-├── Screenshots/
-└── README.md
